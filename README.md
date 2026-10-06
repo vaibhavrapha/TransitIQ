@@ -1,4 +1,8 @@
+## 🌐 Live Prototype
 
+Try TransitIQ here:
+
+https://transitiq-smart-bus.streamlit.app/
 # TransitIQ — Smart Bus Decision Assistant
 
 ## Theme
